@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorTitleBar">#FE0000</color>
+    <color name="colorAnim">#F44336</color>
+    <color name="colorFontcolor">#000</color>
+    <color name="colorFontWhite">#fff</color>
+    <color name="colorBody">#015A7E</color>
+
+</resources>
